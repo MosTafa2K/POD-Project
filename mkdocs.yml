@@ -1,0 +1,14 @@
+site_name: POD Project
+nav:
+    - Home: index.md
+    - Installation: installation.md
+    - How to use: how-use.md
+    - About: about.md
+
+authors:
+    - M.Rezaee
+    - M.H.Mohammadzadeh
+
+repo_url: https://github.com/MosTafa2K/POD-Project
+repo_name: MosTafa2K/POD-Project
+theme: material
