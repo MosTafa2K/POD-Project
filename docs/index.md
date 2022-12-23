@@ -48,12 +48,12 @@ To see how to install and use, refer to the relevant sections.
     |————— out_videos/
     |— models/           # models will be saved at this directory
     |————— yourmodel.onnx
-    |—mkdocs.yml    # The configuration file.
-    |————— docs/
-    |———————— index.md   # The documentation homepage.
-    |———————— about.md   # The documentaion about page.
-    |———————— how-use.md   # The documentaion user guide page.
-    |———————— installation.md   # The documentaion install guide page.
+    |— mkdocs.yml    # The configuration file.
+    |— docs/
+    |———— index.md   # The documentation homepage.
+    |———— about.md   # The documentaion about page.
+    |———— how-use.md   # The documentaion user guide page.
+    |———— installation.md   # The documentaion install guide page.
     |— Samples/
     |————— Images/
     |———————— ...        # Some Images saved by default.
