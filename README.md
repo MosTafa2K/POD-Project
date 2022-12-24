@@ -1,6 +1,6 @@
 # Welcome to POD Project
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+For full documentation visit [POD Project Docs](https://mostafa2k.github.io/podprojectdocs/).
 
 ## Overview
 
@@ -38,3 +38,4 @@ Since the release of YOLOv1 in 2015, the algorithm has gained immense popularity
 * Pillow: 9.3.0
 
 > Note: For using this project you will need **Python 3.8** or later!
+
