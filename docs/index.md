@@ -4,7 +4,7 @@
 
 ## Overview
 
-**POD (Synonymous for Python Object Detection)** project usefull to determin and detect objects in **Images**, **Videos** and also **WebCam** like cat, dog, car and etc!
+**POD (Synonymous for Python Object Detection)** project usefull to determine and detect objects in **Images**, **Videos** and also **WebCam** like cat, dog, car and etc!
 
 Basically, this project is used as an api for projects used to detect objects. POD Project have two part :
 
@@ -15,7 +15,7 @@ Basically, this project is used as an api for projects used to detect objects. P
 
 In **UI** we used [flet](https://github.com/flet-dev/flet) framework to have a fantasy UI!
 
-POD used **ONNX Models** and **YOLOv7 algorithm** for train, object localization and object detection
+POD used **ONNX Models** and **YOLOv7 algorithm** for train, object localization and object detection.
 
 ## What is ONNX Models ?
 
