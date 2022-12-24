@@ -37,4 +37,4 @@ Since the release of YOLOv1 in 2015, the algorithm has gained immense popularity
 * Onnxruntime: 1.13.1
 * Pillow: 9.3.0
 
-> Note: For using this project you will need **Python 3.9** and later!
+> Note: For using this project you will need **Python 3.8** or later!
