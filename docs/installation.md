@@ -1,10 +1,18 @@
 The following steps guide you in installing POD:
 
 
+#### Step 1: Clone repository
+First of all you must clone POD Project repository from github.
+For that enter this command in your terminal :
 
-#### Step 1: Create a virtual environment
-First of all you need create a virtual environment to install packages in one place!
-For initialize a virtual environment run this command in your terminal:
+```
+git clone https://github.com/MosTafa2K/POD-Project.git
+```
+
+
+#### Step 2: Create a virtual environment
+Now you need create a virtual environment to install packages in one place!
+For initialize a virtual environment go to POD Project directory and then run this command in your terminal:
 
 Linux:
 ```
@@ -21,7 +29,7 @@ python -m venv venv
 
 
 
-#### Step 2: Active virtual environment
+#### Step 3: Active virtual environment
 
 To active virtual environment, run this command in your terminal:
 
@@ -37,7 +45,7 @@ venv/Scripts/activate
 
 
 
-#### Step 3: Install requiremenet packages
+#### Step 4: Install requiremenet packages
 
 To install requirement packages, just run this command in your terminal:
 
