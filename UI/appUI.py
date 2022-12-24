@@ -63,9 +63,8 @@ def main(page: Page):
             if isinstance(item, ListTile) and item.selected == True:
                 page.remove(item)
             else:
-                ...
-                # detect_btn.disabled = True
-                # remove_btn.disabled = True
+                detect_btn.disabled = True
+                remove_btn.disabled = True
         page.update()
 
     def add_files(event: Event):
