@@ -43,6 +43,7 @@ Since the release of YOLOv1 in 2015, the algorithm has gained immense popularity
 To see how to install and use, refer to the relevant sections.
 
 ## Project Directory
+```
 ├───assets
 ├───Core
 │   └───yolov7
@@ -54,3 +55,4 @@ To see how to install and use, refer to the relevant sections.
 ├───Samples
 │   └───Images
 └───UI
+```
