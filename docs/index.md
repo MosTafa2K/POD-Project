@@ -43,27 +43,14 @@ Since the release of YOLOv1 in 2015, the algorithm has gained immense popularity
 To see how to install and use, refer to the relevant sections.
 
 ## Project Directory
-    |— assets/           # Outputs will saved in this place 
-    |————— out_images/
-    |————— out_videos/
-    |— models/           # models will be saved at this directory
-    |————— yourmodel.onnx
-    |— mkdocs.yml    # The configuration file.
-    |— docs/
-    |———— index.md   # The documentation homepage.
-    |———— about.md   # The documentaion about page.
-    |———— how-use.md   # The documentaion user guide page.
-    |———— installation.md   # The documentaion install guide page.
-    |— Samples/
-    |————— Images/
-    |———————— ...        # Some Images saved by default.
-    |— Core
-    |————— yolov7/           # Pre-trained models by Yolov7 algorithm
-    |————————— __init__.py
-    |————————— utils.py
-    |————————— YOLOv7.py
-    |————— AiCore.py
-    |————— __init__.py
-    |— UI
-    |————— appUI.py          # UserInterface
-    |— requirements.txt  # requirement packages
+├───assets
+├───Core
+│   └───yolov7
+├───docs
+├───models
+├───Output
+│   ├───out_images
+│   └───out_videos
+├───Samples
+│   └───Images
+└───UI
