@@ -1,1 +1,1 @@
-from .appUI import main
+from UI import appUI
