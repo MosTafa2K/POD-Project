@@ -21,7 +21,7 @@ from flet import (
     FilePickerFileType,
     FilePickerResultEvent
 )
-from Core.AiCore import image_detection, video_detection
+from Core.AiCore import image_detection, video_detection, webcam_detection
 
 
 def main(page: Page):
@@ -101,6 +101,9 @@ def main(page: Page):
         elif detection_mode.value == "Video":
             video_detection(file_path)
 
+        elif detection_mode.value == "Webcam":
+            webcam_detection()
+
     def alert_actions(event: Event):
         alert_message.open = False
         page.update()
@@ -148,7 +151,7 @@ def main(page: Page):
 
 
 def run_app():
-    flet.app(target=main)
+    flet.app(target=main, view=flet.WEB_BROWSER)
 
 
 if __name__ == "__main__":
