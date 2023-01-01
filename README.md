@@ -36,6 +36,7 @@ Since the release of YOLOv1 in 2015, the algorithm has gained immense popularity
 * Sympy: 1.11.1
 * Onnxruntime: 1.13.1
 * Pillow: 9.3.0
+* flet: 0.2.4
 
 > Note: For using this project you will need **Python 3.8** or later!
 
